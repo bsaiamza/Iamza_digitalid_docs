@@ -2,7 +2,7 @@
 
 The following will be used as a convenient scratch pad so share some information with the larger Digital Identity Project for South Africa.
 
-As a start below is the  Schema ID and Credential Definition ID's for the Cornerstone Identity followed by the Address, Vaccine credential, Savings account credential and the Mobile phone/Sim card RICA credentials.
+As a start below is the  Schema ID and Credential Definition ID's for the Savings account credential.
 
 
     ## Savings account Credential

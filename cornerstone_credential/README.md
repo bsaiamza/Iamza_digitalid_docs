@@ -2,7 +2,14 @@
 
 The following will be used as a convenient scratch pad so share some information with the larger Digital Identity Project for South Africa.
 
-As a start below is the  Schema ID and Credential Definition ID's for the Cornerstone Identity followed by the Address, Vaccine credential, Savings account credential and the Mobile phone/Sim card RICA credentials.
+As a start below is the Schema ID and Credential Definition ID's for the Cornerstone Identity.
+
+The Sandbox Issuer Agent / environment can be access via the web at 
+
+   The Issuer requires a valid South African ID number (ID Check is performed), in future this will be verified by a call to South Africal Department of Home Affairs (DHA), but for now we are using a "fake" DHA API, as such the ID number is required to be pre entered into our database. Please send ID Number, Name & Surname to George Leonard at georgel@bankservafrica.com to be entered.
+
+   Live Issuer:    https://issuer.iamza-sandbox.com/
+   Live verifier: https://verifier.iamza-sandbox.com/
 
 
     ## Cornerstone Credential
