@@ -7,7 +7,7 @@ As a start below is the  Schema ID and Credential Definition ID's for the Addres
    Live Issuer:    https://addrissuer.iamza-sandbox.com/
    Live verifier: https://verifier.iamza-sandbox.com/
 
-    ## Physical Address Credential
+   ## Physical Address Credential
 
         -- Schema ID
            Y8X9iqAn2kYN5cce3Jgcjp:2:Physical_Address_Credential:2.2

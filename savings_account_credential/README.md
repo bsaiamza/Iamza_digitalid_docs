@@ -5,7 +5,7 @@ The following will be used as a convenient scratch pad so share some information
 As a start below is the  Schema ID and Credential Definition ID's for the Savings account credential.
 
 
-    ## Savings account Credential
+   ## Savings account Credential
 
         -- Schema ID
            ?

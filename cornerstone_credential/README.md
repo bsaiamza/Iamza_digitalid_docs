@@ -12,7 +12,7 @@ The Sandbox Issuer Agent / environment can be access via the web at
    Live verifier: https://verifier.iamza-sandbox.com/
 
 
-    ## Cornerstone Credential
+   ## Cornerstone Credential
 
         -- Schema ID
            BER7WwiAMK9igkiRjPYpEp:2:Cornerstone_Credential:2.1
