@@ -17,6 +17,6 @@ As a start below is the  Schema ID and Credential Definition ID's for the Saving
            https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/?
 
 
-   ## Vaccine Credential Issuer Code Location
+   ## Savings Account Credential Issuer Code Location
       
-      https://github.com/bsaiamza/vaccine-issuer
+      https://???
