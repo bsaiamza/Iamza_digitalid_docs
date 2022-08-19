@@ -8,10 +8,10 @@ As a start below is the  Schema ID and Credential Definition ID's for the Vaccin
    ## Vaccine Credential
 
         -- Schema ID
-           ?
+           CiW8u785VTBW1S9AsPXGXi:2:Vaccine_Credential:3.1
 
         -- Credential Definition ID
-           ?
+           CiW8u785VTBW1S9AsPXGXi:3:CL:52287:IAMZA Vaccine Credential
 
         -- As Per Sovrin
            https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/?
