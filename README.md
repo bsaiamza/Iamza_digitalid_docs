@@ -8,6 +8,8 @@ The entire IAMZA (Digital Identity South Africa) Sandbox environment is build us
 
 The IAMZA stack uses AIP 1.0 (indy credentials) and URL message types instead of URI message types (https://github.com/hyperledger/aries-cloudagent-python/issues/1788#issuecomment-1142650753).
 
+The Schema's and Credential definitions can be view using:
+	https://indyscan.io/txs/SOVRIN_BUILDERNET/domain
 
     HyperLedger Aries: 
         https://github.com/hyperledger/aries
@@ -24,3 +26,4 @@ The IAMZA stack uses AIP 1.0 (indy credentials) and URL message types instead of
         https://github.com/hyperledger/ursa-python
         https://wiki.hyperledger.org/display/ursa
         
+

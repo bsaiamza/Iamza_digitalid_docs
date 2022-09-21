@@ -21,3 +21,5 @@ As a start below is the  Schema ID and Credential Definition ID's for the Vaccin
       
       https://github.com/bsaiamza/vaccine-issuer
 
+   ## The Schema's and Credential definitions can be view using:
+	  https://indyscan.io/txs/SOVRIN_BUILDERNET/domain

@@ -27,3 +27,6 @@ The Sandbox Issuer Agent / environment can be access via the web at
    ## Cornerstone ID Credential, Address Credential & Vaccine Credential Veriffier Code Location
       
       https://github.com/bsaiamza/cornerstone-verifier
+
+   ## The Schema's and Credential definitions can be view using:
+	  https://indyscan.io/txs/SOVRIN_BUILDERNET/domain

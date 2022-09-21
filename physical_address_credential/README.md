@@ -23,4 +23,5 @@ As a start below is the  Schema ID and Credential Definition ID's for the Addres
       
       https://github.com/bsaiamza/cornerstone-verifier
 
-
+   ## The Schema's and Credential definitions can be view using:
+	  https://indyscan.io/txs/SOVRIN_BUILDERNET/domain
