@@ -6,6 +6,8 @@ As a start in the sub folders are the  Schema ID and Credential Definition ID's 
 
 The entire IAMZA (Digital Identity South Africa) Sandbox environment is build using the HyperLedger Aries, HyperLedger Indy and HyperLedger Ursa framework, which is a implimentation forllowing the concepts of the Self Sovrin Digital Identity (SSI).
 
+The IAMZA stack uses AIP 1.0 (indy credentials) and URL message types instead of URI message types (https://github.com/hyperledger/aries-cloudagent-python/issues/1788#issuecomment-1142650753).
+
 
     HyperLedger Aries: 
         https://github.com/hyperledger/aries
