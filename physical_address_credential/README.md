@@ -14,8 +14,8 @@ As a start below is the  Schema ID and Credential Definition ID's for the Addres
            Y8X9iqAn2kYN5cce3Jgcjp:2:Physical_Address_Credential:3.0
 
            -- As Per Sovrin  
-              	V 2.2 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/55174
-			  	V 3.0 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/59785
+              V 2.2 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/55174
+	          V 3.0 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/59785
 
         -- Credential Definition ID
            Y8X9iqAn2kYN5cce3Jgcjp:3:CL:52641:IAMZA Physical Address Credential
@@ -23,8 +23,8 @@ As a start below is the  Schema ID and Credential Definition ID's for the Addres
 
 
            -- As Per Sovrin
-              	V 2.2 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/52642
-				V 3.0 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/59785
+              V 2.2 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/52642
+              V 3.0 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/59785
 
    ## Address Credential Issuer Code Location
       
