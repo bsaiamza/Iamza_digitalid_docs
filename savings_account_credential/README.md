@@ -5,21 +5,16 @@ The following will be used as a convenient scratch pad so share some information
 As a start below is the  Schema ID and Credential Definition ID's for the Savings account credential.
 
 
-   ## Savings account Credential
+   ## Savings account Credential etc.
 
-        -- Schema ID
-           ?
+        Please see Proof of Account Schema definition/structure,
+        	
+        	https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/60922
+        	
+        This same schema structure can be utilised for proof of any financial account (store of value/wallet)
+		Be that savings account, cheque account, credit card, home loan, car loan, personal load etc.
 
-        -- Credential Definition ID
-           ?
-
-        -- As Per Sovrin
-           https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/?
-
-
-   ## Savings Account Credential Issuer Code Location
-      
-      https://???
+		
 
    ## The Schema's and Credential definitions can be view using:
 	  https://indyscan.io/txs/SOVRIN_BUILDERNET/domain
