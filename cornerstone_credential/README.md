@@ -20,7 +20,7 @@ The Sandbox Issuer Agent / environment can be access via the web at
 
 	       -- As Per Sovrin
               V 2.1 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/55173
-              V 3.0 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/59783
+              V 3.0 https://indyscan.io/tx/SOVRIN_BUILDERNET/domain/59781
            
         -- Credential Definition ID
            BER7WwiAMK9igkiRjPYpEp:3:CL:52285:IAMZA Cornerstone Credential
