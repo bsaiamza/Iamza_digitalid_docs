@@ -56,19 +56,22 @@ Interaction 1.
  
 Interaction 2.
 
-                Holder A presents credential to fin institute A, which does a verification,
-                Fin institute A issues proof of account credential to Holder A
+                Holder A presents credential to fin institute A, which does a verification or identity,
+                Fin institute A then issues an proof of account (bank account) credential to Holder A.
  
 Interaction 3.  
 
-                Holder A presents cornerstone id cred and proof of account (bank account) to Contactable.           
-                Contactable issues proof of mobile device/account.
+                Holder A presents cornerstone id credential and proof of account (bank account) to Contactable (Telco Domain).           
+                Contactable issues proof of mobile device/account credential.
                
 Interaction 4.
 
                 At this stage any of the other issuers (fin institutes, banks, Gary) can opt to verify the proof of mobile device, as a input for their records.
                
-               
+            
+The above cycle can now be repeated with anyone else taking up any of the interaction points, with a new Holder and a new mobile credential agent (wallet) in play.
+
+  
 For this stage I left proof of address out.
 Anyone has the option to be able to issue address credential (after cornerstone id cred verification) and/or verify address credential also.
  
