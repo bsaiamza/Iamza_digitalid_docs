@@ -4,8 +4,27 @@ The following will be used as a convenient scratch pad so share some information
 
 As a start below is the  Schema ID and Credential Definition ID's for the Rica credential issued as part of the RICA process.
 
+	Ignore the id and seqNo at this stage, for illustrative purpose only.
 
-   ## Savings account Credential
+	{  "schema": 
+		{ "ver": "1.0",    
+			"id": "sdvnjk3r478sdmasd:2:Rica_Credential:1.0",    
+			"name": "Rica_Credential",    
+			"version": "1.0",    
+			"attrNames": [      
+				"creation_date",
+            	"iccid_sim_number",
+            	"subscriber_alternate_cell_number",
+            	"subscriber_email",
+            	"subscriber_selfie",
+            	"mobile_provider",
+ 			],    
+ 			"seqNo": 51661  
+ 		}
+ 	}
+ 	
+
+   ## RICA Credential
 
         -- Schema ID
            ?
