@@ -33,15 +33,23 @@ Demo
  
 Each participant to stand up:
 
-	Cornerstone ID credential issuer using common cornerstone id schema
-	Proof of Account Issuer using common proof of account schema
-  	Contactable -> + Proof of mobile device/account Issuer using common Rica schema
+	Issuers:
+	Cornerstone ID credential issuer using common cornerstone id schema.
+	Proof of Account Issuer using common proof of account schema.
+  	Contactable -> + Proof of mobile device/account issuer using common Rica schema.
+
+  	Verifier:
   	Each participant verifier enabled to verify creds based schema id's for:
                
-  		cornerstone id credential,
-      	proof of account credential
-    	proof of mobile device/account
+        Required:
+	  		cornerstone id credential,
+    	  	proof of account credential,
+    		proof of mobile device/account
                
+    	Optional:
+    		proof of address
+    	
+    	
 Interaction 1.
                 BankservAfrica issues a Cornerstone ID credential to holder A into whatever wallet Holder A uses.
  
@@ -69,3 +77,6 @@ Everyone will be provided with the Sovrin TestNet Genesis file address list.
 Each issuer to be configured to point to IAMZA gov body endorser (BankservAfrica Endorser instance).
 All Cred def definitions to be done by issuers. The defined cred def, based on the common schema def to then be passed to BSA to be endorsed after which BSA
 hand it to Sovrin Test net to be written onto the ledger, after which BSA will pass the cred def id back to the requester, enabling the issuer to use the cred def id to issue credentials.
+
+
+Additional technical detail will be added.
