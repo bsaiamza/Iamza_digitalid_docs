@@ -51,17 +51,21 @@ Each participant to stand up:
     	
     	
 Interaction 1.
+
                 BankservAfrica issues a Cornerstone ID credential to holder A into whatever wallet Holder A uses.
  
-Interaction 2
+Interaction 2.
+
                 Holder A presents credential to fin institute A, which does a verification,
                 Fin institute A issues proof of account credential to Holder A
  
-Interaction 3      
+Interaction 3.  
+
                 Holder A presents cornerstone id cred and proof of account (bank account) to Contactable.           
                 Contactable issues proof of mobile device/account.
                
-Interaction 4
+Interaction 4.
+
                 At this stage any of the other issuers (fin institutes, banks, Gary) can opt to verify the proof of mobile device, as a input for their records.
                
                
