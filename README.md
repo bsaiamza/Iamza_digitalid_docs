@@ -26,4 +26,46 @@ The Schema's and Credential definitions can be view using:
         https://github.com/hyperledger/ursa-python
         https://wiki.hyperledger.org/display/ursa
         
+        
+## April 2023 Demo
 
+Demo
+ 
+Each participant to stand up:
+
+	Cornerstone ID credential issuer using common cornerstone id schema
+	Proof of Account Issuer using common proof of account schema
+  	Contactable -> + Proof of mobile device/account Issuer using common Rica schema
+  	Each participant verifier enabled to verify creds based schema id's for:
+               
+  		cornerstone id credential,
+      	proof of account credential
+    	proof of mobile device/account
+               
+Interaction 1.
+                BankservAfrica issues a Cornerstone ID credential to holder A into whatever wallet Holder A uses.
+ 
+Interaction 2
+                Holder A presents credential to fin institute A, which does a verification,
+                Fin institute A issues proof of account credential to Holder A
+ 
+Interaction 3      
+                Holder A presents cornerstone id cred and proof of account (bank account) to Contactable.           
+                Contactable issues proof of mobile device/account.
+               
+Interaction 4
+                At this stage any of the other issuers (fin institutes, banks, Gary) can opt to verify the proof of mobile device, as a input for their records.
+               
+               
+For this stage I left proof of address out.
+Anyone has the option to be able to issue address credential (after cornerstone id cred verification) and/or verify address credential also.
+ 
+At this stage if anyone wants to populate the photo attribute they can.
+If at this stage anyone wants to display a picture contained in the photo attribute they can, but the lack of eiter is not critical for the demo.
+ 
+At this stage all schema definitions and cred def's will be maintained on Sovrin TestNet.
+Everyone will be provided with the Sovrin TestNet Genesis file address list.
+ 
+Each issuer to be configured to point to IAMZA gov body endorser (BankservAfrica Endorser instance).
+All Cred def definitions to be done by issuers. The defined cred def, based on the common schema def to then be passed to BSA to be endorsed after which BSA
+hand it to Sovrin Test net to be written onto the ledger, after which BSA will pass the cred def id back to the requester, enabling the issuer to use the cred def id to issue credentials.
