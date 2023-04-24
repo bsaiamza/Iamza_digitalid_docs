@@ -27,6 +27,19 @@ The Schema's and Credential definitions can be view using:
         https://wiki.hyperledger.org/display/ursa
         
         
+## May 2023 Update
+
+	We will be switching over to Indicio's DemoNET for all further work at this time.
+	
+	Otherwise the below demo ask stays as is.
+	
+	In line with this the Genisys file need to be changed to use the Indicio network.
+	https://raw.githubusercontent.com/Indicio-tech/indicio-network/main/genesis_files/pool_transactions_demonet_genesis
+
+	Below is the Indicio Network Browser
+	https://indyscan.indiciotech.io/txs/INDICIO_DEMONET/domain
+	         
+	         
 ## April 2023 Demo
 
 Demo
