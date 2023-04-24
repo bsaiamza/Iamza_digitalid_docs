@@ -4,6 +4,21 @@ The following will be used as a convenient scratch pad so share some information
 
 As a start below is the  Schema ID and Credential Definition ID's for the Rica credential issued as part of the RICA process.
 
+
+# NEW on Indicio
+
+   ## RICA Credential
+
+        -- Schema ID
+           ?
+
+
+   ## The Schema's and Credential definitions can be view using:
+	  https://indyscan.indiciotech.io/txs/INDICIO_DEMONET/domain
+
+
+## Previous on Sovrin
+
 	Ignore the id and seqNo at this stage, for illustrative purpose only.
 
 	{  "schema": 

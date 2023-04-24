@@ -5,6 +5,26 @@ The following will be used as a convenient scratch pad so share some information
 As a start below is the  Schema ID and Credential Definition ID's for the Vaccine credential.
 
 
+# New - Indicio
+
+   ## Proof of Address
+
+        -- Schema ID
+
+           
+        -- Credential Definition ID
+
+
+   ## Cornerstone ID Credential, Address Credential & Vaccine Credential Veriffier Code Location
+      
+      https://github.com/bsaiamza/vaccine-verifier
+
+   ## The Schema's and Credential definitions can be view using:
+	  https://indyscan.indiciotech.io/txs/INDICIO_DEMONET/domain
+
+
+# PREVIOUS - Sovrin
+
    ## Vaccine Credential
 
         -- Schema ID

@@ -12,6 +12,29 @@ The Sandbox Issuer Agent / environment can be access via the web at
    Live verifier: https://verifier.iamza-sandbox.com/
 
 
+# New - Indicio
+
+   ## Cornerstone Credential
+
+        -- Schema ID
+        	CORNERSTONE_SCHEMA_ID: "BER7WwiAMK9igkiRjPYpEp:2:Cornerstone_Credential:1.0"
+			https://indyscan.indiciotech.io/tx/INDICIO_DEMONET/domain/41749
+
+           
+        -- Credential Definition ID
+			CORNERSTONE_CRED_DEF_ID: "BER7WwiAMK9igkiRjPYpEp:3:CL:41749:Cornerstone Credential 1.0"
+			https://indyscan.indiciotech.io/tx/INDICIO_DEMONET/domain/41750
+
+   ## Cornerstone ID Credential, Address Credential & Vaccine Credential Veriffier Code Location
+      
+      https://github.com/bsaiamza/cornerstone-verifier
+
+   ## The Schema's and Credential definitions can be view using:
+	  https://indyscan.indiciotech.io/txs/INDICIO_DEMONET/domain
+
+
+# PREVIOUS - Sovrin
+
    ## Cornerstone Credential
 
         -- Schema ID
